@@ -81,7 +81,7 @@ function sumAscending(Type)
     end
     sum = sumPlus + sumMinus
 
-    println("[DESC Sum] $Type: $sum\t\t= ($sumPlus + $sumMinus)")
+    println("[ASCN Sum] $Type: $sum\t\t= ($sumPlus + $sumMinus)")
 end   
 
 
